@@ -1,5 +1,8 @@
 {
   "name": "hexo-theme-archer",
+  "hexo": {
+    "version": "6.1.0"
+  },
   "version": "1.6.4",
   "description": "a smart and modern theme for Hexo",
   "private": false,
