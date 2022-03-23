@@ -1,7 +1,7 @@
 ---
 title: Git本地与云端的连接
 date: 2022-03-22 16:32:19
-tags:
+tags: 'git'
 ---
 **Quick setup — if you’ve done this kind of thing before**
 > Set up in Desktop
